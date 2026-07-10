@@ -52,7 +52,7 @@ growing revenue but a relatively flat profit margin. The analysis answers the fo
 | **Customers**   | 793 unique customers                          |
 | **Key Fields**  | Sales, Profit, Discount, Category, Sub-Category, Region, Segment, Ship Mode |
 
-**Source:** [Tableau Sample Superstore Dataset](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls) — a standard dataset widely used in data science education.
+**Source:** [Sample Superstore Dataset — Kaggle](https://www.kaggle.com/datasets/yesshivam007/superstore-dataset?resource=download) — a standard dataset widely used in data science education.
 
 > **Note:** The dataset file is not included in this repository. Download it separately and upload it to
 > Google Colab when running the notebook. The notebook handles extraction and loading automatically.
@@ -348,8 +348,8 @@ in the `extract_and_load()` function to match your local path.
 Data Science Intern — Synent Technologies  
 July 2026
 
-- GitHub: [github.com/Mohittt17](https://github.com/Mohittt17)
-- LinkedIn: [linkedin.com/in/mohit-yadav-7264b3290](https://linkedin.com/in/mohit-yadav-7264b3290)
+- GitHub: [github.com/Mohittt17/synent-task5-salesanalysis-mohit](https://github.com/Mohittt17/synent-task5-salesanalysis-mohit)
+- LinkedIn: [View LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7481413946391056384/)
 
 ---
 
